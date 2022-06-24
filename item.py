@@ -85,5 +85,3 @@ class Item:
         self.__connect(' ')
         self.__prepare_body()
         self.__send()
-
-
